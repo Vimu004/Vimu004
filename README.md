@@ -2,9 +2,12 @@
 
 [![](https://github.com/Vimu004/Vimu004/blob/main/Black%20Gradient%20Minimalist%20Corporate%20Business%20Personal%20Profile%20New%20LinkedIn%20Banner.gif)](https://github.com/Vimu004/Vimu004)
 
-<h3 align="center">Welcome</h3>
+<div align="center">
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Welcome;ශුභයෙන්+ආරාචක;Bienvenue)](https://git.io/typing-svg)
+</div>
 
-<p align="center">My name: Vimuthu Thesara</p>
+
+<p align="center">Vimuthu Thesara</p>
 
 <p align="center">From Sri Lanka</p>
 
